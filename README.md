@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="Woulfty.jpg">
+<img src="Woulfty.png">
 <!--
 **Woulfty/Woulfty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
