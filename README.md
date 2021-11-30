@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Miaw Miaw ~
-<img src="Woulfty (2).png">
+<img style="height:200px; with:200px;" src="Woulfty (2).png">
 I don't like C++
 <!--
 **Woulfty/Woulfty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
