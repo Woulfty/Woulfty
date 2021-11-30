@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Miaw Miaw ~
 <img style="height:200px; with:200px;" src="Woulfty (2).png">
 I don't like C++
