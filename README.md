@@ -1,4 +1,11 @@
 ### Miaw Miaw ~
+<style>
+  body {
+  font-family: Arial;
+  background-color: white;
+}
+
+</style>
 <img style="height:200px; with:200px;" src="Woulfty (2).png">
 I don't like C++
 <!--
