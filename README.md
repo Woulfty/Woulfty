@@ -1,6 +1,7 @@
 ### Miaw Miaw ~
 <img style="height:200px; with:200px;" src="Woulfty (2).png">
-<img style="with:200px;" src="CCC-removebg-preview.png">
+<h4><strong>C++</strong></h4>
+<img style="with:200px;" src="CUI-removebg-preview.png">
 <!--
 **Woulfty/Woulfty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
