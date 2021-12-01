@@ -1,6 +1,6 @@
 ### Miaw Miaw ~
 <img style="height:200px; with:200px;" src="Woulfty (2).png">
-<img style="with:200px;" src="Myskills.jpg">
+<img style="with:200px;" src="Myskills.PNG">
 
 <!--
 **Woulfty/Woulfty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
