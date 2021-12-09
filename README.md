@@ -2,8 +2,6 @@
 <h1>Lyra</h1>
 <p>En ce moment je travail sur mon bot discord nommé Lyra, il aura comme but de gérer la modération ainsi que de permettre aux utilisateurs de jouer a des mini-jeux.</p>
 <p>|</p>
-<p>|</p>
-<p>|</p>
 <h1>My Skills :</h1>
 <img style="with:200px;" src="Myskills7.png">
 <!--
