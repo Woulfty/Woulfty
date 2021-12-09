@@ -1,4 +1,3 @@
-<h3>Miaw Miaw ~</h3>
 <img style="height:200px; with:200px;" src="Lyra.png">
 <h3>Lyra</h3>
 <p>En ce moment je travail sur mon bot discord nommé Lyra, il aura comme but de gérer la modération ainsi que de permettre aux utilisateurs de jouer a des mini-jeux.</p>
