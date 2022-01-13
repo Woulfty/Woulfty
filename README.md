@@ -1,9 +1,7 @@
 <img style="height:200px; with:200px;" src="Lyra.png">
 <h1>Lyra</h1>
 <p>En ce moment je travail sur mon bot discord nommé Lyra, il aura comme but de gérer la modération ainsi que de permettre aux utilisateurs de jouer a des mini-jeux.</p>
-<p>|</p>
-<h1>My Skills :</h1>
-<img style="with:200px;" src="Myskills7.png">
+
 <!--
 **Woulfty/Woulfty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
