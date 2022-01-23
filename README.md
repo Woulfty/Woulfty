@@ -1,6 +1,6 @@
-<img style="height:200px; with:200px;" src="Lyra.png">
+<img style="height:200px; with:200px;" src="yamato.jpg">
 <h1>Lyra</h1>
-<p>En ce moment je travail sur mon bot discord nommé Lyra, il aura comme but de gérer la modération ainsi que de permettre aux utilisateurs de jouer a des mini-jeux.</p>
+<p>Mon premier bot discord, des commandes de jeux, musiques, administrations, NSFW, pour aidé a gérer un serveur et a le rendre plus vivant.</p>
 
 <!--
 **Woulfty/Woulfty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
