@@ -1,5 +1,5 @@
 <img style="height:200px; with:200px;" src="yamato.jpg">
-<h1>Lyra</h1>
+<h1>Yamato</h1>
 <p>Mon premier bot discord, des commandes de jeux, musiques, administrations, NSFW, pour aidé a gérer un serveur et a le rendre plus vivant.</p>
 
 <!--
