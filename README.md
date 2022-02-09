@@ -3,9 +3,12 @@
 ## Mon premier bot discord
 ### Crydiaa est un bot admin 
 
-| -play [url]  | Te permet d'écouter de la musique.  |
-| -skip  | Te permet de passer à la musique suivante.  |
-| -stop  | Te permet d'arréter la musique en cours de lecture.  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 # SongBot
 
