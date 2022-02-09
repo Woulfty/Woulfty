@@ -19,9 +19,10 @@
 | -giveaway [temps ; prix] |  Crée un tirage au sort chronométrer  |
 | -me  |  Affiche les informations utilisateur  |
 
-Crydiaa crée également une carte de bienvenue pour chaques nouveaux membres qui rejoingent votre serveur et détécte les insultes et les réprimes par des messages de préventions.
+Crydiaa crée également une carte de bienvenue pour chaques nouveaux membres qui rejoint votre serveur et détécte les insultes et les réprimes par des messages de préventions.
 
 # SongBot
 
 <img style="height:200px; with:200px;" src="songbot.png">
+
 ## Tuto pour crée un bot musical avec discord.js
