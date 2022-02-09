@@ -1,5 +1,7 @@
 # Crydiaa
+
 <img style="height:200px; with:200px;" src="Crydiaa.png">
+
 ## Mon premier bot discord
 ### Crydiaa est un bot admin/utilisateurs avec des commandes diversifiés :
 
