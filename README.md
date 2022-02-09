@@ -4,5 +4,5 @@
 
 # SongBot
 
-<img style="height:200px; with:200px;" src="IMG/songbot.png">
+<img style="height:200px; with:200px;" src="songbot.png">
 ## Tuto pour crée un bot musical avec discord.js
