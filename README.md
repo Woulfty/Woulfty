@@ -3,10 +3,9 @@
 ## Mon premier bot discord
 ### Crydiaa est un bot admin 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| -play[url]  | Te permet d'écouter de la musique.  |
+| -play [url]  | Te permet d'écouter de la musique.  |
 | -skip | Te permet de passer à la musique suivante.  |
+| -stop | Te permet d'arréter la musique en cours de lecture.  |
 
 
 # SongBot
