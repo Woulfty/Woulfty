@@ -26,3 +26,6 @@ Crydiaa crée également une carte de bienvenue pour chaques nouveaux membres qu
 <img style="height:200px; with:200px;" src="songbot.png">
 
 ## Tuto pour crée un bot musical avec discord.js
+
+Pour crée un bot avec discord.js et pouvoir écouter de la musique entre amis avec ton propre bot !
+[découvrir](https://github.com/Woulfty/SongBot)
