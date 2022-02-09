@@ -5,7 +5,7 @@
 
 | -play [url]  | Te permet d'écouter de la musique.  |
 | -skip | Te permet de passer à la musique suivante.  |
-| -stop | Te permet d'arréter la musique en cours de lecture.  |
+| -stop | Te permet d'arréter la musique en cours de lecture. |
 
 
 # SongBot
