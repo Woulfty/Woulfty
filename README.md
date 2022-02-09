@@ -3,6 +3,8 @@
 ## Mon premier bot discord
 ### Crydiaa est un bot admin 
 
+| First Header  | Second Header |
+| ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
