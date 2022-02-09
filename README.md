@@ -5,17 +5,17 @@
 
 | Commandes  | Effects |
 | ------------- | ------------- |
-| -help [url]  | Affiche la liste des commandes  |
-| -play  | Permet de jouer une musique  |
-| -skip  | Permet de passer une musique  |
-| -stop  | Arréte la musique  |
-| -roll  | Fait un tirage au sort  |
+| -help [url]  |  Affiche la liste des commandes  |
+| -play  |  Permet de jouer une musique  |
+| -skip  |  Permet de passer une musique  |
+| -stop  |  Arréte la musique  |
+| -roll  |  Fait un tirage au sort  |
 | -kick [user]  | 🎖️Expulse un membre du serveur (admin)  |
 | -ban [user]  | 🎖️Bannie un membre du serveur (admin)  |
 | -purge [nombre]  | 🎖️Supprime les message du salon (admin)  |
 | -nsfw  | 🔞Affiche la liste des commandes NSFW  |
-| -giveaway [temps ; prix] | Crée un tirage au sort chronométrer  |
-| -me  | Affiche les informations utilisateur  |
+| -giveaway [temps ; prix] |  Crée un tirage au sort chronométrer  |
+| -me  |  Affiche les informations utilisateur  |
 
 # SongBot
 
