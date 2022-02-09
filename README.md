@@ -2,10 +2,11 @@
 <img style="height:200px; with:200px;" src="Crydiaa.png">
 ## Mon premier bot discord
 ### Crydiaa est un bot admin 
+
 | First Header  | Second Header |
 | ------------- | ------------- |
-| -play[url]  | Te permet d'écouter de la musique. |
-| -skip | Te permet de passer à la musique suivante. |
+| -play[url]  | Te permet d'écouter de la musique.  |
+| -skip | Te permet de passer à la musique suivante.  |
 
 
 # SongBot
