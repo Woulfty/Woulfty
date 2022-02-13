@@ -25,7 +25,7 @@ Crydiaa crée également une carte de bienvenue pour chaques nouveaux membres qu
 Amélioration en cours :
 | Commandes  | Effects |
 | ------------- | ------------- |
-| -sondage [nombre de choix, durée, choix 1, choix 2, choix n] |  Fait un sondage dans le temps avec le nombre d'arguments choisit |
+| -sondage [nombre de choix, durée, args 1, args 2, args n] |  Fait un sondage dans le temps avec le nombre d'arguments choisit |
 
 
 # [SongBot](https://github.com/Woulfty/SongBot)
