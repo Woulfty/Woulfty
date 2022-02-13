@@ -22,7 +22,7 @@
 
 Crydiaa crée également une carte de bienvenue pour chaques nouveaux membres qui rejoint votre serveur et détécte les insultes et les réprimes par des messages de préventions.
 
-Amélioration en cours :
+### Amélioration en cours :
 | Commandes  | Effects |
 | ------------- | ------------- |
 | -sondage [nombre de choix, durée, args 1, args 2, args n] |  Fait un sondage dans le temps avec le nombre d'arguments choisit |
