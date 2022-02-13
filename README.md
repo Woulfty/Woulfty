@@ -13,9 +13,9 @@
 | -stop  |  Arréte la musique  |
 | -roll  |  Fait un tirage au sort  |
 | -nsfw  | 🔞Affiche la liste des commandes NSFW  |
-| -giveaway [temps ; prix] |  Crée un tirage au sort chronométrer  |
 | -user  |  Affiche les informations utilisateur  |
 | -pfc 🪨/📃/✂️  |  Pour jouer avec moi a pierre feuille ciseaux  |
+| -giveaway [temps ; prix] |  🎖️Crée un tirage au sort chronométrer  |
 | -kick [user]  | 🎖️Expulse un membre du serveur (admin)  |
 | -ban [user]  | 🎖️Bannie un membre du serveur (admin)  |
 | -purge [nombre]  | 🎖️Supprime les message du salon (admin)  |
