@@ -7,8 +7,8 @@
 
 | Commandes  | Effects |
 | ------------- | ------------- |
-| -help [url]  |  Affiche la liste des commandes  |
-| -play  |  Permet de jouer une musique  |
+| -help  |  Affiche la liste des commandes  |
+| -play [url]  |  Permet de jouer une musique  |
 | -skip  |  Permet de passer une musique  |
 | -stop  |  Arréte la musique  |
 | -roll  |  Fait un tirage au sort  |
