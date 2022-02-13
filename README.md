@@ -22,6 +22,12 @@
 
 Crydiaa crée également une carte de bienvenue pour chaques nouveaux membres qui rejoint votre serveur et détécte les insultes et les réprimes par des messages de préventions.
 
+Amélioration en cours :
+| Commandes  | Effects |
+| ------------- | ------------- |
+| -sondage [nombre de choix, durée, choix 1, choix 2, choix n] |  Fait un sondage dans le temps avec le nombre d'arguments choisit |
+
+
 # [SongBot](https://github.com/Woulfty/SongBot)
 
 <img style="height:200px; with:200px;" src="songbot.png">
