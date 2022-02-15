@@ -26,6 +26,8 @@ Crydiaa crée également une carte de bienvenue pour chaques nouveaux membres qu
 | Commandes  | Effects |
 | ------------- | ------------- |
 | -sondage [nombre de choix, durée, args 1, args 2, args n] |  Fait un sondage dans le temps avec le nombre d'arguments choisit |
+| -loop  |  Répéte la musique en cours |
+| -unloop  |  Arréte de répéter la musique en cours |
 
 
 # [SongBot](https://github.com/Woulfty/SongBot)
