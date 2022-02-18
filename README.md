@@ -30,7 +30,7 @@ Crydiaa crée également une carte de bienvenue pour chaques nouveaux membres qu
 | -unloop  |  Arréte de répéter la musique en cours |
 
 
-# [SongBot](https://github.com/Woulfty/SongBot)
+# [SongBot](https://github.com/Woulfty/SongBot)🎶
 
 <img style="height:200px; with:200px;" src="songbot.png">
 
